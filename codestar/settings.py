@@ -56,7 +56,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'codestar.urls'
+ROOT_URLCONF = 'codestarblogtest.urls'
 
 TEMPLATES = [
     {
